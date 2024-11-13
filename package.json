@@ -1,0 +1,23 @@
+{
+  "name": "nojestcomponent",
+  "version": "1.0.0",
+  "description": "My first component library (technically)",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NoJest/NojestComponent.git"
+  },
+  "keywords": [
+    "Component/",
+    "library"
+  ],
+  "author": "Justin P Thomasson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoJest/NojestComponent/issues"
+  },
+  "homepage": "https://github.com/NoJest/NojestComponent#readme"
+}
