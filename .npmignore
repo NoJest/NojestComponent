@@ -1,0 +1,5 @@
+node_modules/
+src/
+.env/
+components/
+rollup.config.mjs
